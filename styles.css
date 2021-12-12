@@ -15,3 +15,8 @@ table {
     border-top-width: thick;
     border-bottom-width: thick;
 }
+
+.black {
+	border-top-color: black;
+	border-bottom-color: black;
+}
