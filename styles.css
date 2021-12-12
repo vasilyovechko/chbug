@@ -1,0 +1,17 @@
+
+table, td, th {
+    border: 1px solid black;
+    border-collapse: collapse;
+    font-size: xx-large;
+}
+
+table {
+    margin: 100px;
+}
+
+.red {
+    border-top-color: red;
+    border-bottom-color: red;
+    border-top-width: thick;
+    border-bottom-width: thick;
+}
